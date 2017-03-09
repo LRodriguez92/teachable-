@@ -1,0 +1,76 @@
+html{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  color: #5F5F5F;
+}
+
+.container{
+  margin: 0 auto;
+  width: 65%;
+}
+#nav{
+  margin-top: 35px;
+  margin-bottom: 150px;
+}
+
+#teachable{
+  font-size: 35px;
+  font-weight: bold;
+  padding-right: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#nav li{
+  list-style: none;
+  display: inline;
+  margin-right: 30px;
+  color: #5F5F5F;
+}
+
+.menuItems{
+  display: inline;
+  padding: 0;
+}
+
+#navRight{
+  float: right;
+}
+
+.createCourse{
+  color: #E9713D;
+  border-radius: 25px;
+  background-color: #FEF1EB;
+  padding: 12px;
+  padding-left: 33px;
+  padding-right: 33px;
+}
+
+#design h5{
+  color: #E9713D;
+  background-color: #FEF1EB;
+  width: 56px;
+  padding: 7px;
+  border-radius: 5px;
+  padding-left: 14px;
+}
+
+#design h1{
+  margin-bottom: -8px;
+}
+
+.designSum{
+    margin-top: 80px;
+    line-height: 2em;
+}
+
+.leftAlign{
+  float: left;
+  width: 45%;
+}
+
+.rightAlign{
+  float: right;
+  width: 48%;
+}
